@@ -17,7 +17,7 @@ Most companies collect millions of reviews but analyze very little of it. This p
 ---
 
 ## Demo
-![App Screenshot](assets/screenshot1.png)
+![App Screenshot](assets/Screenshot1.png)
 Run the local search and summarization app:
 
 ```bash
