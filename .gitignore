@@ -3,6 +3,9 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 data/raw/
+data/processed/
 *.csv
 *.zip
 .env
+*.npy
+*.bin
